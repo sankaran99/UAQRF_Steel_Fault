@@ -1,4 +1,4 @@
-# UAQRF - IJASE Research Article Reproducibility Package
+# UAQRF - IJASE Article Reproducibility Package
 
 **Manuscript:** *Uncertainty-Adaptive Quantum Residual Fusion for Imbalanced Steel Surface Fault Classification: A State-Vector Simulation Study*
 
